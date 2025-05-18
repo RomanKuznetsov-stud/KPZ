@@ -1,0 +1,7 @@
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\bin\Debug\Product storage.exe.config
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\bin\Debug\Product storage.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\bin\Debug\Product storage.pdb
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\obj\Debug\Product storage.csproj.AssemblyReference.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\obj\Debug\Product storage.csproj.CoreCompileInputs.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\obj\Debug\Product storage.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab1\Lab1\Product storage\obj\Debug\Product storage.pdb
