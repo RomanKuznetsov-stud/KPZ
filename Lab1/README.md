@@ -23,11 +23,15 @@ Product має Money, а не є підкласом Money.\
 [Приклад в коді](./Lab1/Product%20storage/Program.cs#L8-L12)\
 <ins>Принцип Fail Fast</ins>\
 Суть: Помилки мають з'являтися якомога раніше.\
-[Приклад в коді](./Lab1/Product%20storage/Program.cs#L22,L86,L94,L115)\
+[Приклад в коді](./Lab1/Product%20storage/Program.cs#L22)\
+[Приклад в коді](./Lab1/Product%20storage/Program.cs#L86)\
+[Приклад в коді](./Lab1/Product%20storage/Program.cs#L94)\
+[Приклад в коді](./Lab1/Product%20storage/Program.cs#L115)\
 <ins>Принцип SOLID</ins>\
 <ins>Single Responsibility Principle (Принцип єдиної відповідальності)</ins>\
 Суть:Кожен клас повинен мати одну відповідальність.\
-[Приклад в коді](./Lab1/Product%20storage/Program.cs#L14,L43)\
+[Приклад в коді](./Lab1/Product%20storage/Program.cs#L14)\
+[Приклад в коді](./Lab1/Product%20storage/Program.cs#L43)\
 Клас Product відповідає тільки за опис товару.\
 Клас Money відповідає лише за зберігання та валідацію грошових значень.\
 <ins>Open/Closed Principle (Принцип відкритості/закритості)</ins>\
