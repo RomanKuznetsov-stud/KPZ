@@ -13,8 +13,8 @@ namespace Product_storage
 
     public class Money
     {
-        public int Units { get; private set; } 
-        public int Cents { get; private set; } 
+        public int Units { get; private set; }
+        public int Cents { get; private set; }
 
         public Money(int units, int cents)
         {
