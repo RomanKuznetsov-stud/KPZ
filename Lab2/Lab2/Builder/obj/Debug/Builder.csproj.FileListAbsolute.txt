@@ -1,0 +1,7 @@
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\bin\Debug\Builder.exe.config
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\bin\Debug\Builder.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\bin\Debug\Builder.pdb
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\obj\Debug\Builder.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Builder\obj\Debug\Builder.pdb

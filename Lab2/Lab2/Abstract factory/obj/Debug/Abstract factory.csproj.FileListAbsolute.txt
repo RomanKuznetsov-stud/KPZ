@@ -1,0 +1,7 @@
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\bin\Debug\Abstract factory.exe.config
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\bin\Debug\Abstract factory.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\bin\Debug\Abstract factory.pdb
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\obj\Debug\Abstract factory.csproj.AssemblyReference.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\obj\Debug\Abstract factory.csproj.CoreCompileInputs.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\obj\Debug\Abstract factory.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Abstract factory\obj\Debug\Abstract factory.pdb

@@ -1,0 +1,7 @@
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\bin\Debug\Singleton.exe.config
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\bin\Debug\Singleton.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\bin\Debug\Singleton.pdb
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\obj\Debug\Singleton.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Singleton\obj\Debug\Singleton.pdb

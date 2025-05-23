@@ -1,0 +1,7 @@
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\obj\Debug\Factory Method.csproj.AssemblyReference.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\bin\Debug\Factory Method.exe.config
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\bin\Debug\Factory Method.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\bin\Debug\Factory Method.pdb
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\obj\Debug\Factory Method.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Factory Method\obj\Debug\Factory Method.pdb

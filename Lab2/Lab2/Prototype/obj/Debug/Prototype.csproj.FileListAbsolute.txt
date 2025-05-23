@@ -1,0 +1,7 @@
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\bin\Debug\Prototype.exe.config
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\bin\Debug\Prototype.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\bin\Debug\Prototype.pdb
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\obj\Debug\Prototype.exe
+D:\ДРУГИЙ КУРС\Конструювання програмного забезпечення\Lab2\Lab2\Prototype\obj\Debug\Prototype.pdb
